@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\info\\OneDrive\\Documents\\Unreal Projects\\RallaballTemplate3-main\\RollaBall\\Source\\RollaBall\\RollaBall.Build.cs",
+		"C:\\Users\\info\\OneDrive\\Documents\\Unreal Projects\\RallaballTemplate3-main\\RollaBall\\Source\\RollaBall.Target.cs",
+		"C:\\Users\\info\\OneDrive\\Documents\\Unreal Projects\\RallaballTemplate3-main\\RollaBall\\Source\\RollaBallEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
